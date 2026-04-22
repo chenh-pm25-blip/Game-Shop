@@ -44,7 +44,6 @@ Additional modules and functions: (TBA)
 
 Existing modules and functions that require fixes:
 - Product prices can be set to negative (Admin)
-- Hide/remove ability to buy product (Admin)
 - Fix delete function of product and the pop up message (Admin)
 - Password function change to forget password as the default, remove the update password function (Admin & Member)
 - Fix remove function on shopping cart section (Member)
