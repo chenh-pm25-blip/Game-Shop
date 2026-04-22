@@ -45,8 +45,6 @@ Additional modules and functions: (TBA)
 Existing modules and functions that require fixes:
 - Product prices can be set to negative (Admin)
 - Hide/remove ability to buy product (Admin)
-- Set a default image/png for users who don't upload photo upon account creation (Member & Admin)
-- Fix profile photo upload function (Admin & Member)
 - Fix delete function of product and the pop up message (Admin)
 - Password function change to forget password as the default, remove the update password function (Admin & Member)
 - Fix remove function on shopping cart section (Member)
