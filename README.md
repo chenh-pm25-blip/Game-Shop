@@ -42,9 +42,4 @@ Additional modules and functions: (TBA)
 - Top Selling Products (e.g. Top 5)
 - Remember User Preference (e.g. Theme)
 
-Existing modules and functions that require fixes:
-- Product prices can be set to negative (Admin)
-- Fix delete function of product and the pop up message (Admin)
-- Password function change to forget password as the default, remove the update password function (Admin & Member)
-- Fix remove function on shopping cart section (Member)
-- Prompt an error message when user exceeds the available product quantity (Member)
+Existing modules and functions that require fixes: (All done)
