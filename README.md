@@ -1,0 +1,2 @@
+# Game-Shop
+Basic functions:
