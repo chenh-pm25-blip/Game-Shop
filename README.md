@@ -52,3 +52,5 @@ Existing modules and functions that require fixes:
 - ~~Password function change to forget password as the default, remove the update password function (Admin & Member)~~
 - ~~Fix remove function on shopping cart section (Member)~~
 - ~~Prompt an error message when user exceeds the available product quantity (Member)~~
+- Admin being able to delete another admin
+- Member homepage for Featured & Recommended, images do not fit with the border
