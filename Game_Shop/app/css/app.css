@@ -10,12 +10,13 @@ body, input, button, textarea, select {
 
 body {
     margin: 0;
-    height: 100vh;
+    min-height: 100vh;
     display: grid;
     grid: auto auto 1fr auto / auto;
     /* Steam standard dark blue gradient background */
     background: #1b2838;
     background: radial-gradient(circle at top center, #2a475e 0%, #1b2838 80%);
+    background-attachment: fixed;
     color: #c6d4df;
 }
 
