@@ -1,5 +1,6 @@
 # Game-Shop
 Basic functions: ✅
+
 Security
 - Roles: Admin + Member
 - Login + Logout
